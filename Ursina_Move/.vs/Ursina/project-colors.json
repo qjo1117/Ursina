@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fd502824-ea78-4e14-a31d-1d913a0c51e3": {
+      "ProjectGuid": "fd502824-ea78-4e14-a31d-1d913a0c51e3",
+      "DisplayName": "Ursina",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
